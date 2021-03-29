@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **C++, python, anime**
 
-- 📫 How to reach me **nivedhithadm@gmail.com**
+- 📫 Reach me by mailing to **nivedhithadm@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K4T-vKKWme7S9BOBanLEudHqML_mt_5Y/view?usp=sharing](https://drive.google.com/file/d/1K4T-vKKWme7S9BOBanLEudHqML_mt_5Y/view?usp=sharing)
+- 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1K4T-vKKWme7S9BOBanLEudHqML_mt_5Y/view?usp=sharing)
 
 - ⚡ Fun fact **I am a textbook INFJ personality type, the rarest type 🦄😜👌🏻**
 
