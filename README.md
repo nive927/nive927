@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nivedhitha D </h1>
+<h1 align="center">Hi 👋, I'm Nivedhitha D 👩‍💻</h1>
 <h3 align="center">A Computer Science Undergraduate Researcher and Developer from Chennai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nive927&label=Profile%20views&color=0e75b6&style=flat" alt="nive927" /> </p>
