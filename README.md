@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1K4T-vKKWme7S9BOBanLEudHqML_mt_5Y/view?usp=sharing)
 
-- ⚡ Fun fact **I am a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the rarest type 🦄😜👌🏻**
+- ⚡ Fun fact **I am a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
