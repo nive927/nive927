@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nive927&label=Profile%20views&color=0e75b6&style=flat" alt="nive927" /> </p>
 
-<img align="left" width="240" height="240" src="https://github.com/nive927/nive927/blob/main/Octocat/my-octocat-1617036447624.png">
+<img align="left" width="250" height="250" src="https://github.com/nive927/nive927/blob/main/Octocat/my-octocat-1617036447624.png">
 
 - 🔭 I’m currently working on [Leafage - A new age SaaS seed-to-sale solution](https://github.com/nive927/Leafage)
 
