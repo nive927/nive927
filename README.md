@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nive927&label=Profile%20views&color=0e75b6&style=flat" alt="nive927" /> </p>
 
+<img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+
 - 🔭 I’m currently working on [Leafage - A new age SaaS seed-to-sale solution](https://github.com/nive927/Leafage)
 
 - 🌱 I’m currently learning **Front-end Web Development: Bootstrap 4**
