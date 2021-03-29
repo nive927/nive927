@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nivedhitha-d-0bb67b1b0" target="blank"><img align="center" src="http://assets.stickpng.com/images/58e91afdeb97430e81906504.png" alt="nivedhitha-d-0bb67b1b0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nivedhitha-d-0bb67b1b0" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="nivedhitha-d-0bb67b1b0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
