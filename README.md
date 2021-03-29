@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nivedhitha D</h1>
+<h1 align="center">Hi 👋, I'm Nivedhitha D </h1>
 <h3 align="center">A Computer Science Undergraduate Researcher and Developer from Chennai,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nive927&label=Profile%20views&color=0e75b6&style=flat" alt="nive927" /> </p>
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences here: [Resume](https://drive.google.com/file/d/1K4T-vKKWme7S9BOBanLEudHqML_mt_5Y/view?usp=sharing)
 
-- ⚡ Fun fact **I am a textbook INFJ personality type, the rarest type 🦄😜👌🏻**
+- ⚡ Fun fact **I am a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the rarest type 🦄😜👌🏻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
