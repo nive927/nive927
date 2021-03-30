@@ -5,11 +5,11 @@
 
 <img align="left" width="210" height="210" src="https://github.com/nive927/nive927/blob/main/Octocat/nive927-octocat.gif">
 
-- 🔭 I’m currently working on [Leafage - A new age SaaS seed-to-sale solution](https://github.com/nive927/Leafage)
+- 🔭 I’m currently working on [Leafage - A new SaaS seed-to-sale solution](https://github.com/nive927/Leafage)
 
 - 🌱 I’m currently learning **Front-end Web Development: Bootstrap 4**
 
-- 💬 Ask me about **C++, python, anime**
+- 💬 Ask me about **C++, python**
 
 - 📫 Reach me by mailing to **nivedhithadm@gmail.com**
 
