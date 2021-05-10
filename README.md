@@ -1,7 +1,7 @@
 <!-- Banner -->
-![Nivedhitha D - Banner]()
+![Nivedhitha D - Banner](https://github.com/nive927/nive927/blob/main/assets/banner.gif)
 
-<img alt="Hand Wave Gif" src="./assets/hand-wave.gif" width='40' align="center"/><h1>Hey there!</h1>
+<img alt="Hand Wave Gif" src="./assets/hand-wave.gif" width='40' align="left"/><h1>Hey there!</h1>
 
 <!-- ## 👋 &nbsp;Hey there! -->
 
