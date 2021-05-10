@@ -5,21 +5,24 @@
 <h1 align="left">Hey there! <img alt="Hand Wave Gif" src="./assets/hand-wave.gif" width='40'/></h1>
 
 ![version :10.05.2021](https://img.shields.io/badge/version-10.05.2021-ff69b4)&nbsp;
-![Profile Counter](https://komarev.com/ghpvc/?username=nive927&color=blueviolet)&nbsp;
+![Profile View Counter](https://komarev.com/ghpvc/?username=nive927&color=blueviolet)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
 [![GitHub Nivedhitha D](https://img.shields.io/github/followers/nive927?label=follow&style=social)](https://github.com/nive927)
 
 <!-- Bio -->
 ### 👩‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💡 &nbsp;&nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/).\
+🌱 &nbsp;I'm learing Angular for my upcoming summer internship at Fidelity Investments.\
+🔬 &nbsp;I'm interested in R&D in the fields of Machine Learning, Computer Vision, and Applied CS.\
+📒 &nbsp;As the Secretary of the ACM Student Chapter at college, I handle all the chapter correspondence and plan technical events.\
+👩 &nbsp;I work with WomenTech Network (Global Ambassador) to to learn about diversity & inclusion and develop my leadership skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!\
-⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻
+✉️ &nbsp;You can shoot me an email at nivedhitha18104@cse.ssn.edu.in! I'll try to respond as soon as I can.\
+⚡ &nbsp;Fun fact: I'm a textbook INTJ-A personality type, the same type as Gandalf the Grey 🦄😜👌🏻
+<!-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!\ -->
+<!-- ⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻 -->
 
 <!-- Octocat GIF from Giphy (megan) -->
 <img height="200em" alt="Octocat GIF" src="https://media.giphy.com/media/i9aay9z8LD2pbeOtOO/giphy.gif" align="right">
@@ -27,23 +30,33 @@
 <!-- Tech Stack -->
 ### 🛠 &nbsp;Tech Stack
 
+<!-- Programming Languages -->
+<!-- Front-end -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;\
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;\
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Shell](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=Shell)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&logoColor=563D7C)\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;\
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit%20learn%20-%23013243.svg?&style=flat&logo=scikit-learn&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;\
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)&nbsp;
+![Pycharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
 <!-- Github Analytics Card -->
 ### ⚙️ &nbsp;GitHub Analytics
