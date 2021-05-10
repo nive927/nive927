@@ -5,7 +5,7 @@
 <h1 align="left">Hey there! <img alt="Hand Wave Gif" src="./assets/hand-wave.gif" width='40'/></h1>
 
 ![version :10.05.2021](https://img.shields.io/badge/version-10.05.2021-ff69b4)&nbsp;
-![Profile View Counter](https://komarev.com/ghpvc/?username=nive927&color=blueviolet)&nbsp;
+![View Counter](https://komarev.com/ghpvc/?username=nive927&color=blueviolet)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
 [![GitHub Nivedhitha D](https://img.shields.io/github/followers/nive927?label=follow&style=social)](https://github.com/nive927)
 
