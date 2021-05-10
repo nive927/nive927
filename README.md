@@ -1,9 +1,8 @@
 <!-- Banner -->
 ![Nivedhitha D - Banner](https://github.com/nive927/nive927/blob/main/assets/banner.gif)
 
-<img alt="Hand Wave Gif" src="./assets/hand-wave.gif" width='40' align="left"/><h1>Hey there!</h1>
-
 <!-- ## 👋 &nbsp;Hey there! -->
+<img alt="Hand Wave Gif" src="./assets/hand-wave.gif" width='40' align="left"/><h1>Hey there!</h1>
 
 ### 👩‍💻 &nbsp;About Me
 
@@ -13,11 +12,11 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
-⚡ Fun fact **I am a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻**
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!\
+⚡ &nbsp;Fun fact: **I'm a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻**
 
 <!-- Octocat GIF from Giphy (megan) -->
-<iframe src="https://giphy.com/embed/i9aay9z8LD2pbeOtOO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/octocat-i9aay9z8LD2pbeOtOO">via GIPHY</a></p>
+
 
 ### 🛠 &nbsp;Tech Stack
 
