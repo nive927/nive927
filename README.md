@@ -1,3 +1,4 @@
+![](https://github.com/nive927/nive927/blob/main/Nivedhitha_D.gif)
 <h1 align="center">Hi 👋, I'm Nivedhitha D 👩‍💻</h1>
 <h3 align="center">A Computer Science Undergraduate Researcher and Developer from Chennai,India</h3>
 
