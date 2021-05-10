@@ -3,14 +3,13 @@
 
 <!-- ## 👋 &nbsp;Hey there! -->
 <h1 align="left">Hey there! <img alt="Hand Wave Gif" src="./assets/hand-wave.gif" width='40'/></h1>
-![version :10.05.2021](https://img.shields.io/badge/version-10.05.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=nive927&color=red)&nbsp;
-[![GitHub Nivedhitha D](https://img.shields.io/github/followers/nive927?label=follow&style=social)](https://github.com/nive927)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+
+![version :10.05.2021](https://img.shields.io/badge/version-10.05.2021-ff69b4)&nbsp;
+![Profile Counter](https://komarev.com/ghpvc/?username=nive927&color=blueviolet)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
+[![GitHub Nivedhitha D](https://img.shields.io/github/followers/nive927?label=follow&style=social)](https://github.com/nive927)
 
 <!-- Bio -->
-
-<!-- Quick Facts -->
 ### 👩‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
@@ -43,26 +42,26 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 
 <!-- Github Analytics Card -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<details>
+  <summary>Check it out</summary>
+  <p align="center">
+    <a href="https://github.com/AVS1508">
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nive927&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nive927&layout=compact&langs_count=8&theme=tokyonight"/>
+    </a>
+  </p>
+</details>
 
 <!-- Contact -->
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nivedhitha18104@cse.ssn.edu.in"><img src="https://img.shields.io/badge/-nivedhitha18104@cse.ssn.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
