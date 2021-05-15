@@ -14,7 +14,7 @@
 
 💡 &nbsp;&nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/).\
-🌱 &nbsp;I'm learing Angular for my upcoming summer internship at Fidelity Investments.\
+🌱 &nbsp;I'm learning Angular for my upcoming summer internship at Fidelity Investments.\
 🔬 &nbsp;I'm interested in R&D in the fields of Machine Learning, Computer Vision, and Applied CS.\
 📒 &nbsp;As the Secretary of the ACM Student Chapter at college, I handle all the chapter correspondence and plan technical events.\
 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion and develop my leadership skills.\
