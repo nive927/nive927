@@ -14,10 +14,11 @@
 
 💰 &nbsp;&nbsp;I am currently interning at [Fidelity Investments](https://www.google.com/search?gs_ssp=eJzj4tTP1Tcwsig0MlNgNGB0YPDiSMtMSc3JLKkEAErGBpA&q=fidelity&oq=fifel&aqs=chrome.1.69i57j46i10i199i291i433j0i10i131i433j46i10i131i199i291i433j46i10i433j0i10i433j0i10j46i10i175i199j0i10.2692j0j7&sourceid=chrome&ie=UTF-8) as a Full Stack Engineer.
 
+
 💡 &nbsp;&nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
 🎓 &nbsp;I'm an Undergraduate pursuing Computer Science and Engineering at [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/).\
 🌱 &nbsp;I'm researching about Navigation in Underwater Robots. Check out our prototype so far over [here](https://www.youtube.com/watch?v=OBnoacUi01A)!\
-🔬 &nbsp;I'm interested in R&D in the fields of Machine Learning, Computer Vision, and Applied CS.\
+🔬 &nbsp;I'm interested in R&D in the fields of Machine Learning, Computer Vision, and Applied CS currently interning at the University of Cyprus.\
 📒 &nbsp;As the Secretary of the ACM Student Chapter at college, I handle all the chapter correspondence and plan technical events.\
 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion and develop my leadership skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
