@@ -14,9 +14,9 @@
 
 💡 &nbsp;&nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
 🎓 &nbsp;I'm an Undergraduate pursuing Computer Science and Engineering at [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/).\
-🌱 &nbsp;I'm working on the Navigation Suite for an Underwater Robot named, ORCA. Check out our prototype so far over [here](https://www.youtube.com/watch?v=OBnoacUi01A)!\
-🔬 &nbsp;I'm interested in the fields of Machine Learning, Computer Vision, and Applied CS currently interning at the University of Cyprus.\
-📒 &nbsp;As the Secretary of the ACM Student Chapter at college, I handle all the chapter correspondence and plan technical events.\
+🌱 &nbsp;I'm working on the Navigation Suite for two Underwater Robots namely, [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A) and Kyogre!\
+🔬 &nbsp;I'm interested in the fields of Machine Learning, Natual Language Processing, Computer Vision and Applied CS.\
+📒 &nbsp;As the Secretary of the CSE Department, I handle all the chapter correspondence and plan all the technical events.\
 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion and develop my leadership skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at nivedhitha18104@cse.ssn.edu.in! I'll try to respond as soon as I can.\
