@@ -9,6 +9,14 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)&nbsp;
 [![GitHub Nivedhitha D](https://img.shields.io/github/followers/nive927?label=follow&style=social)](https://github.com/nive927)
 
+<!-- Contact -->
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nivedhitha18104@cse.ssn.edu.in"><img src="https://img.shields.io/badge/-nivedhitha18104@cse.ssn.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
 <!-- Bio -->
 ### 👩‍💻 &nbsp;About Me
 
@@ -79,11 +87,3 @@
     </a>
   </p>
 </details>
-
-<!-- Contact -->
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nivedhitha18104@cse.ssn.edu.in"><img src="https://img.shields.io/badge/-nivedhitha18104@cse.ssn.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
