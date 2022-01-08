@@ -28,7 +28,7 @@
 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion and develop my leadership skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at nivedhitha18104@cse.ssn.edu.in! I'll try to respond as soon as I can.\
-⚡ &nbsp;Fun fact: I'm a textbook INTJ-A personality type, the same type as Gandalf the Grey 🦄😜👌🏻
+⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A](https://www.16personalities.com/intj-personality) personality type, the same type as Gandalf the Grey 🦄😜👌🏻
 <!-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!\ -->
 <!-- ⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻 -->
 
