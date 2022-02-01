@@ -21,20 +21,20 @@
 <!-- Bio -->
 ### 👩‍💻 &nbsp;About Me
 
-💡 &nbsp;&nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
+<!-- Octocat GIF from Giphy (megan) -->
+<img height="200em" alt="Octocat GIF" src="https://media.giphy.com/media/i9aay9z8LD2pbeOtOO/giphy.gif" align="right">
+
 🎓 &nbsp;I'm a CSE Undergraduate at [SSN College of Engineering](https://www.ssn.edu.in/).\
-🌱 &nbsp;I'm working on the Navigation Suite for two Underwater Robots namely, [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A) and Kyogre!\
+💡 &nbsp;&nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
 🔬 &nbsp;I'm interested in the fields of Full Stack Engineering and Deep Learning.\
-📒 &nbsp;As the Secretary of the CSE Department, I handle all the chapter correspondence and plan all the technical events.\
+🌱 &nbsp;I'm working on the Navigation Suite for two Underwater Robots namely, [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A) and Kyogre!\
+📒 &nbsp;As the Secretary of the CSE Department, I handle all the chapter correspondence and plan most of the technical events.\
 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion, expand my network and develop my leadership skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at nivedhitha18104@cse.ssn.edu.in! I'll try to respond as soon as I can.\
 ⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A](https://www.16personalities.com/intj-personality) personality type, the same type as Gandalf the Grey 🦄😜👌🏻
 <!-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!\ -->
 <!-- ⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻 -->
-
-<!-- Octocat GIF from Giphy (megan) -->
-<img height="200em" alt="Octocat GIF" src="https://media.giphy.com/media/i9aay9z8LD2pbeOtOO/giphy.gif" align="right">
 
 <!-- Tech Stack -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
