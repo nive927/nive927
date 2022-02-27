@@ -27,7 +27,7 @@
 🎓 &nbsp;I'm a CSE Undergraduate at [SSN College of Engineering](https://www.ssn.edu.in/).\
 💡 &nbsp;&nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
 🔬 &nbsp;I'm interested in the fields of Full Stack Engineering and Deep Learning.\
-🌱 &nbsp;I'm working on the Navigation Suite for two Underwater Robots namely, [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A) and Kyogre!\
+🌱 &nbsp;I'm working on the Navigation Suite for two Underwater Robots namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
 📒 &nbsp;As the Secretary of the CSE Department, I handle all the chapter correspondence and plan most of the technical events.\
 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion, expand my network and develop my leadership skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
