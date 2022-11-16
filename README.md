@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nivedhitha18104@cse.ssn.edu.in"><img src="https://img.shields.io/badge/-nivedhitha18104@cse.ssn.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="mailto:nivedhitha18104@cse.ssn.edu.in"><img src="https://img.shields.io/badge/-nivedhitha18104@cse.ssn.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <!-- <a href="https://twitter.com/nivedhitha_d"><img src="https://img.shields.io/badge/-@nivedhitha_d-informational?style=flat&logo=Twitter&logoColor=white"/></a> -->
 </p>
 
@@ -31,8 +31,8 @@
 📒 &nbsp;As the Secretary of the CSE Department, I handle all the chapter correspondence and plan most of the technical events.\
 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion, expand my network and develop my leadership skills.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at nivedhitha18104@cse.ssn.edu.in! I'll try to respond as soon as I can.\
 ⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A](https://www.16personalities.com/intj-personality) personality type, the same type as Gandalf the Grey 🦄😜👌🏻
+<!-- ✉️ &nbsp;You can shoot me an email at nivedhitha18104@cse.ssn.edu.in! I'll try to respond as soon as I can.\ -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions!\ -->
 <!-- ⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A personality type](https://www.16personalities.com/intj-personality), the same type as Gandalf the Grey 🦄😜👌🏻 -->
 
