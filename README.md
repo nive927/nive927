@@ -13,7 +13,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha%20D-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nivedhitha-d-0bb67b1b0/"><img src="https://img.shields.io/badge/-Nivedhitha%20Dhanasekaran-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <!-- <a href="mailto:nivedhitha18104@cse.ssn.edu.in"><img src="https://img.shields.io/badge/-nivedhitha18104@cse.ssn.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
 <!-- <a href="https://twitter.com/nivedhitha_d"><img src="https://img.shields.io/badge/-@nivedhitha_d-informational?style=flat&logo=Twitter&logoColor=white"/></a> -->
 </p>
