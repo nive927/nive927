@@ -27,7 +27,7 @@
 🎓 &nbsp;I'm a CSE Undergraduate from [SSN College of Engineering](https://www.ssn.edu.in/).\
 💡 &nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
 🔬 &nbsp;I'm interested in the fields of Full Stack Engineering, Computational Biomedicine and Applied Machine Learning.\
-🌱 &nbsp;I also built the Navigation Suite for two Underwater Robots namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
+🌱 &nbsp;In college, I built the Navigation Suite for two Underwater Robots namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
 ⚡ &nbsp;Fun fact: I'm a textbook [INTJ-A](https://www.16personalities.com/intj-personality) personality type, the same type as Gandalf the Grey 🦄😜👌🏻
 <!-- 📒 &nbsp;As the Secretary of the CSE Department, I handle all the chapter correspondence and plan most of the technical events.\ -->
 <!-- 👩 &nbsp;As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion, expand my network and develop my leadership skills.\ -->
