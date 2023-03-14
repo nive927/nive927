@@ -24,7 +24,7 @@
 <!-- Octocat GIF from Giphy (megan) -->
 <img height="200em" alt="Octocat GIF" src="https://media.giphy.com/media/i9aay9z8LD2pbeOtOO/giphy.gif" align="right">
 
-🎓 &nbsp;I'm a CSE Undergraduate (2018-2022) from [SSN College of Engineering](https://www.ssn.edu.in/).\
+🎓 &nbsp;I'm a CSE Undergraduate (2018-2022) from [Sri Sivasubramaniya Nadar College of Engineering](https://www.ssn.edu.in/).\
 💡 &nbsp;I enjoy exploring new technologies, developing software solutions and quick hacks.\
 🔬 &nbsp;I'm interested in the fields of Full Stack Data Science & Engineering, Applied Machine Learning and, Computational Biomedicine.\
 🌱 &nbsp;In college, I built the Navigation Suite for two Underwater Robots namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
