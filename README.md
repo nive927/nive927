@@ -21,13 +21,13 @@
 <!-- Bio -->
 ### 👩‍💻 &nbsp;About Me
 
-<!-- Octocat GIF from Giphy (megan) -->
+<!-- Octocat GIF from Giphy (Megan) -->
 <img height="200em" alt="Octocat GIF" src="https://media.giphy.com/media/i9aay9z8LD2pbeOtOO/giphy.gif" align="right">
 
 🎓 &nbsp;I'm a [Master of Computational Data Science](https://mcds.cs.cmu.edu/) student at [Carnegie Mellon University](https://www.cmu.edu/).\
 💡 &nbsp; I enjoy exploring new technologies, developing software solutions, and quick hacks.\
 🔬 &nbsp; I'm interested in the fields of Full Stack Data Science, Applied Machine Learning, and Computational Biomedicine.\
-🌱 &nbsp; In college, I built the Navigation Suite for two Underwater Robots, namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
+🌱 &nbsp; In my undergrad., I built the Navigation Suite for two Underwater Robots, namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
 ⚡ &nbsp; Fun fact: I'm a textbook [INTJ-A](https://www.16personalities.com/intj-personality) personality type, the same type as Gandalf the Grey 🦄😜👌🏻
 <!-- 📒 &nbsp; As the Secretary of the CSE Department, I handle all the chapter correspondence and plan most of the technical events.\ -->
 <!-- 👩 &nbsp; As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion, expand my network and develop my leadership skills.\ -->
