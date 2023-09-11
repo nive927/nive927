@@ -27,7 +27,7 @@
 🎓 &nbsp;I'm a [Master of Computational Data Science](https://mcds.cs.cmu.edu/) student at [Carnegie Mellon University](https://www.cmu.edu/).\
 💡 &nbsp; I enjoy exploring new technologies, developing software solutions, and quick hacks.\
 🔬 &nbsp; I'm interested in the fields of Full Stack Data Science, Applied Machine Learning, and Computational Biomedicine.\
-🌱 &nbsp; In my undergrad., I built the Navigation Suite for two Underwater Robots, namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
+🌱 &nbsp; In my undergrad., I built two Navigation Suites, each one for two different Underwater Robots, namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
 ⚡ &nbsp; Fun fact: I'm a textbook [INTJ-A](https://www.16personalities.com/intj-personality) personality type, the same type as Gandalf the Grey 🦄😜👌🏻
 <!-- 📒 &nbsp; As the Secretary of the CSE Department, I handle all the chapter correspondence and plan most of the technical events.\ -->
 <!-- 👩 &nbsp; As a Global Ambassador for WomenTech Network, I learn about diversity & inclusion, expand my network and develop my leadership skills.\ -->
