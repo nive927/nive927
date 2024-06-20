@@ -24,7 +24,7 @@
 <!-- Octocat GIF from Giphy (Megan) -->
 <img height="200em" alt="Octocat GIF" src="https://media.giphy.com/media/i9aay9z8LD2pbeOtOO/giphy.gif" align="right">
 
-🎓 &nbsp;I'm a [Master of Computational Data Science](https://mcds.cs.cmu.edu/) student at [Carnegie Mellon University](https://www.cmu.edu/).\
+🎓 &nbsp;I'm a [Master of Computational Data Science](https://mcds.cs.cmu.edu/) (Analytics and Human-computer Interaction) student at [Carnegie Mellon University](https://www.cmu.edu/).\
 💡 &nbsp; I enjoy exploring new technologies, developing software solutions, and quick hacks.\
 🔬 &nbsp; I'm interested in the fields of Full Stack Data Science, Applied Machine Learning, Data Engineering and Analytics.\
 🌱 &nbsp; In my undergrad., I built two Navigation Suites, each one for two different Underwater Robots, namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
