@@ -24,9 +24,10 @@
 <!-- Octocat GIF from Giphy (Megan) -->
 <img height="200em" alt="Octocat GIF" src="https://media.giphy.com/media/i9aay9z8LD2pbeOtOO/giphy.gif" align="right">
 
-🎓 &nbsp; I'm a [Master of Computational Data Science](https://mcds.cs.cmu.edu/) (Analytics and Human-computer Interaction) student at [Carnegie Mellon University](https://www.cmu.edu/).\
+🤖 &nbsp; I'm currently a Software Engineer at Amazon Robotics.\
+🎓 &nbsp; I'm a [Master of Computational Data Science](https://mcds.cs.cmu.edu/) (Analytics and Human-computer Interaction) graduate from [Carnegie Mellon University](https://www.cmu.edu/).\
 💡 &nbsp; I enjoy exploring new technologies, developing software solutions, and quick hacks.\
-🔬 &nbsp; I'm interested in the fields of Full Stack Data Science, Applied Machine Learning, Data Engineering and Analytics.\
+🔬 &nbsp; I'm interested in the fields of Software Engineering, Robotics & Applied AI.\
 🌱 &nbsp; In my undergrad., I built two Navigation Suites, each one for two different Underwater Robots, namely, KYOGRE and [ORCA](https://www.youtube.com/watch?v=OBnoacUi01A)!\
 ⚡ &nbsp; Fun fact: I'm a textbook [INTJ-A](https://www.16personalities.com/intj-personality) personality type, the same type as Gandalf the Grey 🦄😜👌🏻
 <!-- 📒 &nbsp; As the Secretary of the CSE Department, I handle all the chapter correspondence and plan most of the technical events.\ -->
